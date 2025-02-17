@@ -1,0 +1,2 @@
+# Place this in cache/.htaccess, ratelimit/.htaccess, history/.htaccess, and logs/.htaccess
+Deny from all

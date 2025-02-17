@@ -1,0 +1,12 @@
+{
+    "name": "dns-checker",
+    "description": "DNS Record Checker Application",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "DNSChecker\\": "includes/"
+        }
+    }
+}
